@@ -106,7 +106,7 @@
 
     <div class="card">
       <div class="card-header text-white bg-secondary">
-        Data Menu
+        Daftar Pesanan
       </div>
       <div class="card-body">
         <?php
