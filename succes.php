@@ -46,7 +46,7 @@
 
   <div class="terimakasih">
   <body>
-    <img src="/serah/image/logoshigal.png"> 
+    <img src="image/logoshigal.png"> 
     <br>
     <h1>Terimakasih telah menjadi pelanggan kami</h1>
     <h4>Klik tombol order di bawah untuk order di restoran kami lagi</h4>

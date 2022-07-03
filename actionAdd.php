@@ -14,6 +14,6 @@ $pilian = $_POST['pilian'];
 
 mysqli_query($koneksi,"insert into daftarmenu (nama, pilihan) values('$nama','$pilian')");
 
-header("Location:SUCCES.php")
+header("Location:succes.php")
 
 ?>

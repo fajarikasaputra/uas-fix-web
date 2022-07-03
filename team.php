@@ -29,7 +29,7 @@
   </div>
   <header>
     <div class="container">
-    <a href="home.php"><img src="/serah/image/logoshigal.png" width="20%"></a>
+    <a href="home.php"><img src="image/logoshigal.png" width="20%"></a>
       <ul>
         <li><a href="home.php">HOME</a></li>
         <li><a href="menu.php">MENU</a></li>
@@ -41,7 +41,7 @@
   </header>
 
   <div class="center">
-    <img src="/serah/image/team.png" alt="team" class="center">
+    <img src="image/team.png" alt="team" class="center">
   </div>
 
   <!-- Footer -->

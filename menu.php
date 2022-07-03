@@ -29,7 +29,7 @@
   </div>
   <header>
     <div class="container">
-    <a href="home.php"><img src="/serah/image/logoshigal.png" width="20%"></a>
+    <a href="home.php"><img src="image/logoshigal.png" width="20%"></a>
       <ul>
         <li><a href="home.php">HOME</a></li>
         <li class="active"><a href="menu.php">MENU</a></li>
@@ -59,7 +59,7 @@
         Tongseng Ayam
       </div>
       <div class="image">
-        <img src="/serah/image/tongseng-ayam-pedas 1.png" alt="tongseng ayam">
+        <img src="image/tongseng-ayam-pedas 1.png" alt="tongseng ayam">
       </div>
       <div class="text">
         Menu: Tongseng Ayam <br>
@@ -78,7 +78,7 @@
         Tongseng Kambing
       </div>
       <div class="image">
-        <img src="/serah/image/Resep-Tongseng-kambing 1.png" alt="tongseng Kambing">
+        <img src="image/Resep-Tongseng-kambing 1.png" alt="tongseng Kambing">
       </div>
       <div class="text">
         Menu: Tongseng Kambing <br>
@@ -97,7 +97,7 @@
         Sop Dengkil
       </div>
       <div class="image">
-        <img src="/serah/image/spdengkil.jpg" alt="Sop Dengkil">
+        <img src="image/spdengkil.jpg" alt="Sop Dengkil">
       </div>
       <div class="text">
         Menu: Sop Dengkil <br>
@@ -117,7 +117,7 @@
         Soto Daging
       </div>
       <div class="image">
-        <img src="/serah/image/stdaging.png" alt="Soto Daging">
+        <img src="image/stdaging.png" alt="Soto Daging">
       </div>
       <div class="text">
         Menu: Soto Daging <br>
@@ -136,7 +136,7 @@
         Soto Ayam
       </div>
       <div class="image">
-        <img src="/serah/image/stayam.png" alt="Soto Ayam">
+        <img src="image/stayam.png" alt="Soto Ayam">
       </div>
       <div class="text">
         Menu: Soto Ayam <br>
@@ -155,7 +155,7 @@
         Nasi Ayam Penyet
       </div>
       <div class="image">
-        <img src="/serah/image/ayampyt.png" alt="Nasi Ayam Penyet">
+        <img src="image/ayampyt.png" alt="Nasi Ayam Penyet">
       </div>
       <div class="text">
         Menu: Nasi Ayam Penyet <br>
@@ -174,7 +174,7 @@
         Nasi Goreng
       </div>
       <div class="image">
-        <img src="/serah/image/nsgoreng.png" alt="Nasi Goreng">
+        <img src="image/nsgoreng.png" alt="Nasi Goreng">
       </div>
       <div class="text">
         Menu: Nasi Goreng <br>
@@ -193,7 +193,7 @@
         Chicken Karaage
       </div>
       <div class="image">
-        <img src="/serah/image/ayamkarag.png" alt="Chicken Karaage">
+        <img src="image/ayamkarag.png" alt="Chicken Karaage">
       </div>
       <div class="text">
         Menu: Chicken Karaage <br>
@@ -212,7 +212,7 @@
         Mie Tek-tek
       </div>
       <div class="image">
-        <img src="/serah/image/mietk.png" alt="Mie Tek-tek">
+        <img src="image/mietk.png" alt="Mie Tek-tek">
       </div>
       <div class="text">
         Menu: Mie Tek-tek <br>
@@ -231,7 +231,7 @@
         Pempek Palembang
       </div>
       <div class="image">
-        <img src="/serah/image/pmpk 1.png" alt="Pempek Palembang">
+        <img src="image/pmpk 1.png" alt="Pempek Palembang">
       </div>
       <div class="text">
         Menu: Pempek Palembang <br>
@@ -250,7 +250,7 @@
         Omelet Sosis
       </div>
       <div class="image">
-        <img src="/serah/image/tlrsos.png" alt="Omelet Sosis">
+        <img src="image/tlrsos.png" alt="Omelet Sosis">
       </div>
       <div class="text">
         Menu: Omelet Sosis <br>
@@ -269,7 +269,7 @@
         Sosis Bakar
       </div>
       <div class="image">
-        <img src="/serah/image/sosbkr.png" alt="Sosis Bakar">
+        <img src="image/sosbkr.png" alt="Sosis Bakar">
       </div>
       <div class="text">
         Menu: Sosis Bakar <br>
@@ -288,7 +288,7 @@
         Burger
       </div>
       <div class="image">
-        <img src="/serah/image/bger.png" alt="Burger">
+        <img src="image/bger.png" alt="Burger">
       </div>
       <div class="text">
         Menu: Burger <br>
@@ -307,7 +307,7 @@
         Kentang Goreng
       </div>
       <div class="image">
-        <img src="/serah/image/ktgrng.png" alt="Kentang Goreng">
+        <img src="image/ktgrng.png" alt="Kentang Goreng">
       </div>
       <div class="text">
         Menu: Kentang Goreng <br>
@@ -326,7 +326,7 @@
         Nugget ayam
       </div>
       <div class="image">
-        <img src="/serah/image/nugget.png" alt="Nugget ayam">
+        <img src="image/nugget.png" alt="Nugget ayam">
       </div>
       <div class="text">
         Menu: Nugget ayam <br>
@@ -345,7 +345,7 @@
         Tempe Mendoan
       </div>
       <div class="image">
-        <img src="/serah/image/mndoan.png" alt="Tempe Mendoan">
+        <img src="image/mndoan.png" alt="Tempe Mendoan">
       </div>
       <div class="text">
         Menu: Tempe Mendoan <br>
@@ -364,7 +364,7 @@
         Nasi Putih
       </div>
       <div class="image">
-        <img src="/serah/image/nspth.png" alt=" Nasi Putih">
+        <img src="image/nspth.png" alt=" Nasi Putih">
       </div>
       <div class="text">
         Menu:  Nasi Putih <br>
@@ -383,7 +383,7 @@
       Es Teh/ Teh Hangat
       </div>
       <div class="image">
-        <img src="/serah/image/esteh 1.png" alt="Es Teh/ Teh Hangat">
+        <img src="image/esteh 1.png" alt="Es Teh/ Teh Hangat">
       </div>
       <div class="text">
         Menu: Es Teh/ Teh Hangat  <br>
@@ -402,7 +402,7 @@
         Es Jeruk/Jeruk Panas
       </div>
       <div class="image">
-        <img src="/serah/image/jeruk.png" alt="Es Jeruk/Jeruk Panas">
+        <img src="image/jeruk.png" alt="Es Jeruk/Jeruk Panas">
       </div>
       <div class="text">
         Menu: Es Jeruk/Jeruk Panas <br>
@@ -421,7 +421,7 @@
         Lemon Tea
       </div>
       <div class="image">
-        <img src="/serah/image/lmntea.png" alt="Lemon Tea">
+        <img src="image/lmntea.png" alt="Lemon Tea">
       </div>
       <div class="text">
         Menu: Lemon Tea <br>
@@ -440,7 +440,7 @@
         Kopi
       </div>
       <div class="image">
-        <img src="/serah/image/kopi.png" alt="Kopi">
+        <img src="image/kopi.png" alt="Kopi">
       </div>
       <div class="text">
         Menu: Kopi <br>
@@ -459,7 +459,7 @@
         Teh Gula Batu
       </div>
       <div class="image">
-        <img src="/serah/image/gulabtu.png" alt="Teh Gula Batu">
+        <img src="image/gulabtu.png" alt="Teh Gula Batu">
       </div>
       <div class="text">
         Menu: Teh Gula Batu <br>
@@ -478,7 +478,7 @@
         Pop Ice
       </div>
       <div class="image">
-        <img src="/serah/image/popice.png" alt="Pop Ice">
+        <img src="image/popice.png" alt="Pop Ice">
       </div>
       <div class="text">
         Menu: Pop Ice <br>
@@ -497,7 +497,7 @@
         Es Chocolate
       </div>
       <div class="image">
-        <img src="/serah/image/escoklt.png" alt="Es Chocolate">
+        <img src="image/escoklt.png" alt="Es Chocolate">
       </div>
       <div class="text">
         Menu: Es Chocolate <br>
@@ -516,7 +516,7 @@
         Es kopi
       </div>
       <div class="image">
-        <img src="/serah/image/eskpi.png" alt="Es kopi">
+        <img src="image/eskpi.png" alt="Es kopi">
       </div>
       <div class="text">
         Menu: Es kopi <br>
