@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500;700&display=swap");
+
+* {
+  padding: 0;
+  margin-top: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.medsos {
+  padding: 5px 0;
+  background-color: #035397;
+}
+.medsos ul li {
+  display: inline-block;
+  color: white;
+  margin-right: 10px;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container h3 {
+  text-align: center;
+}
+.container:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+header h1 {
+  float: left;
+  padding: 15px 0px;
+  color: #035397;
+}
+header ul {
+  float: right;
+}
+header ul li {
+  display: inline-block;
+}
+header ul li a {
+  padding: 25px 20px;
+  display: inline-block;
+}
+header ul li a:hover {
+  background-color: #035397;
+  color: #fff;
+}
+.active {
+  background-color: #035397;
+  color: #fff;
+}
+.banner {
+  height: 60vh;
+  background-image: url(../image/banner.jpg);
+  background-size: cover;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(3, 83, 151, 0.6);
+}
+
+.banner h2 {
+  color: #ffffff;
+  z-index: 1;
+  padding: 20px 25px;
+  border: 3px solid #ffffff;
+}
+
+section {
+  padding: 50px 0;
+}
+
+section h3 {
+  text-align: center;
+  padding: 20px 0;
+  color: #035397;
+}
+
+.about p {
+  color: #035397;
+  word-spacing: 2px;
+  line-height: 25px;
+}
+
+.contact {
+  background-color: #035397;
+}
+
+footer {
+  padding: 30px 0;
+  background-color: #035397;
+  color: #ffffff;
+  text-align: center;
+}
+
+.services {
+  background-color: #f9f9f9;
+}
+
+.box {
+  color: #035397;
+}
+
+.box .col-4 {
+  width: 25%;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  float: left;
+}
+
+.icon {
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  line-height: 70px;
+  font-size: 20px;
+}
+
+.box .col-4 h4 {
+  margin: 20px 0;
+}
+
+.product-list {
+  background-color: #dfe6e9;
+  padding: 3em;
+}
+
+.product-list .card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1em;
+  box-shadow: 0px 10px 5px #b2bec3;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.card .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #035397;
+  font-size: 30px;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.card .text {
+  text-align: left;
+  margin-bottom: 0.5em;
+  font-size: 20px;
+  padding-top: 8px;
+  color: #035397;
+  padding-bottom: 5px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.buy-button {
+  background-color: #035397;
+  border: none;
+  padding: 1em;
+  border: 10px;
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  border-radius: 10px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.buy-button:hover {
+  box-shadow: 0px 5px 5px #b2bec3;
+  color: #377d71;
+}
+
+.product-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 40px;
+}
+
+.menu-display h1 {
+  text-align: center;
+  color: #035397;
+  font-size: 40px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.terimakasih {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.terimakasih button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #035397;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-top: 50px;
+  margin-bottom: 65px;
+}
+
+.terimakasih button:hover {
+  background-color: #035397;
+}
+
+.terimakasih button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.maps {
+  padding-top: 50;
+  padding-bottom: 50;
+  margin-left: 500px;
+}
